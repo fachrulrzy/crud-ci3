@@ -67,7 +67,7 @@
                 type: 'pie'
             },
             title: {
-                text: 'Perbandingan Pengguna Antar Kota'
+                text: 'Perbandingan Pengguna'
             },
             tooltip: {
                 pointFormat: '{series.name}: <b>{point.y}</b>'
